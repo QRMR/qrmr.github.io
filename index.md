@@ -4,128 +4,69 @@ layout: default
 
 # Building Clouds.
 
-That is what we do, getting you started on cloud. Whether it is about a 'get your toes wet' project or a full fledged cloud-native business model, we are the quartermasters getting you up and running.
+That is what we do, getting you started on Cloud. 
+
+Whether it is about a 'get your toes wet' project or building a full-fledged cloud-native business model, we are the _quartermasters_ getting you up and running.
+
+> Whatever anyone else tells you, _doing cloud right is hard_. 
+
+If you want to build a team that is _agile_ and create _secure_ and _compliant_ websites, applications, systems, platforms or companies, you have to do more than just create an account with Amazon Web Services (AWS), Microsoft Azure or Google Cloud Platform and put some smart girls and boys with Macbooks to work.
+
+> Cloud doesn't change _what_ you do, only _how_ you do it.
+
+Cloud uniquely allows your team to move faster than ever before. Trying out new things, creating and discarding resources that would take months to aquire and years to pay-off in the physical world.
+
+_Keep your team small_, only hire fast-learners with an inquisitive mindset, and add one or two key women or men with the inside knowledge of your products and processes.
+
+_Don't overengineer_, because everything you think you know (or read) will turn out to be wrong, misinterpreted, marketing speak or obsolete by the time you finally use it.
+
+_Security and Compliance_ has to be the primary quality criteria. Launching an awesome website and getting hacked in the first week makes for bad headlines.
+
+_Don't be afraid_ once you have a team up and running with all the tools they need, they will move or change faster then you previously thought possible!
+
+Cloud, when done right, is a no-brainer for all organizations small or large teams, small or large budgets, long or short timelines!
 
 
+## Get in touch!
 
---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Whether it is for a cup of coffee with some free advice or talking projects, you can find us on [Linkedin](https://linkedin.com/company/qrmr), [GitHub](https://github.com/qrmr), [GitLab](https://gitlab.com/qrmr) and in real-life in Amsterdam, the Netherlands.
 
 
-### Definition lists can be used with HTML syntax.
+***
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Handy resources and snippets
+
+There are those things you know of but always have to google to really remember, this is a (growing) list of my favorites :)
+
+Add a password to an existing SSH key:
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+ssh-keygen -p -f {file_name}
 ```
 
+Generate a new SSL key (RSA 2048-bit SHA2):
+
 ```
-The final element.
+openssl req -utf8 -nodes -sha256 -newkey rsa:2048 -keyout private.key -out signing_req.csr
 ```
+
+Add a password to an existing SSL key (AES256 encryption):
+
+```
+openssl rsa -aes256 -in private.key -out private_encrypted.key
+```
+
+(Remember to (securely) delete the unencrypted private.key file!)
+
+Remove password from existing SSL key:
+
+```
+openssl rsa -in private_encrypted.key -out private.key
+```
+
+
+***
+
+&copy; Copyright 2016 - 2019, all rights reserved by QRMR B.V.
+
+QRMR B.V. is registered in the Netherlands under Chamber of Commerce number: 73327166.
