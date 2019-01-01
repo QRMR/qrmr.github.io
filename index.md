@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Building Clouds.
+
+That is what we do, getting you started on cloud. Whether it is about a 'get your toes wet' project or a full fledged cloud-native business model, we are the quartermasters getting you up and running.
+
+
+
+--
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
