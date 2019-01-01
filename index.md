@@ -8,11 +8,11 @@ That is what we do, getting you started on Cloud.
 
 Whether it is about a 'get your toes wet' project or building a full-fledged cloud-native business model, we are the _quartermasters_ getting you up and running.
 
-> Whatever anyone else tells you, _doing cloud right is hard_. 
+> Whatever anyone else tells you, **doing cloud right is hard**. 
 
 If you want to build a team that is _agile_ and create _secure_ and _compliant_ websites, applications, systems, platforms or companies, you have to do more than just create an account with Amazon Web Services (AWS), Microsoft Azure or Google Cloud Platform and put some smart girls and boys with Macbooks to work.
 
-> Cloud doesn't change _what_ you do, only _how_ you do it.
+> Cloud doesn't change **what** you do, only **how** you do it.
 
 Cloud uniquely allows your team to move faster than ever before. Trying out new things, creating and discarding resources that would take months to aquire and years to pay-off in the physical world.
 
@@ -22,7 +22,7 @@ _Don't overengineer_, because everything you think you know (or read) will turn 
 
 _Security and Compliance_ has to be the primary quality criteria. Launching an awesome website and getting hacked in the first week makes for bad headlines.
 
-_Don't be afraid_ once you have a team up and running with all the tools they need, they will move or change faster then you previously thought possible!
+_Don't be afraid!_ Once you have a team up and running with all the tools they need, they will move or change faster then you previously thought possible!
 
 Cloud, when done right, is a no-brainer for all organizations small or large teams, small or large budgets, long or short timelines!
 
@@ -34,7 +34,7 @@ Whether it is for a cup of coffee with some free advice or talking projects, you
 
 ***
 
-# Handy resources and snippets
+## Handy resources and snippets
 
 There are those things you know of but always have to google to really remember, this is a (growing) list of my favorites :)
 
