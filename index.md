@@ -24,12 +24,18 @@ _Security and Compliance_ has to be the primary quality criteria. Launching an a
 
 _Don't be afraid!_ Once you have a team up and running with all the tools they need, they will move or change faster then you previously thought possible!
 
-Cloud, when done right, is a no-brainer for all organizations small or large teams, small or large budgets, long or short timelines!
+> Cloud, when done right, is a no-brainer for all organizations: small or large teams, small or large budgets, long or short timelines!
+
+Don't forget all current cloud technologies, tools, and companies are developing (and changing) at a breakneck speed, don't expect tomorrow to look the same as today. 
+
+Don't expect to build something today that will look and work the same a half year from now.
+
+Enjoy the cloud experience!
 
 
 ## Get in touch!
 
-Whether it is for a cup of coffee with some free advice or talking projects, you can find us on [Linkedin](https://linkedin.com/company/qrmr), [GitHub](https://github.com/qrmr), [GitLab](https://gitlab.com/qrmr) and in real-life in Amsterdam, the Netherlands.
+Whether it is for a cup of coffee and some free advice, or talking projects, you can find us on [Linkedin](https://linkedin.com/company/qrmr), [GitHub](https://github.com/qrmr), [GitLab](https://gitlab.com/qrmr) and in real-life in Amsterdam, the Netherlands.
 
 
 ***
