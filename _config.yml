@@ -2,5 +2,5 @@ title: QRMR B.V.
 logo: /assets/img/cloud_helm.png
 description: QRMR stands for QuarteRMasteR. When building clouds, we are the quartermasters helping you get up and running in no-time. Agile, Secure and Compliant.
 show_downloads: false
-google_analytics:
+google_analytics: UA-99956832-1
 theme: jekyll-theme-minimal
