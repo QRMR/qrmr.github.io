@@ -73,6 +73,6 @@ openssl rsa -in private_encrypted.key -out private.key
 
 ***
 
-&copy; Copyright 2016 - 2019, all rights reserved by QRMR B.V.
+&copy; Copyright 2016 - 2021, all rights reserved by QRMR B.V.
 
 QRMR B.V. is registered in the Netherlands under Chamber of Commerce number: 73327166.
